@@ -13,7 +13,7 @@ The Netflix - TV Shows and Movies dataset is particularly valuable for anyone in
 - [@Annie Li](https://github.com/anniewli/project2)
 - [@Young Kim]()
 - [@William McBride](https://github.com/WilliamMcB23/William-McBride-Project-1---MIST-4610)
- - [@Gustav Bringle]()
+ - [@Gustav Bringle](https://github.com/gustavbringle/project2tableua)
 
 ## Questions
 
